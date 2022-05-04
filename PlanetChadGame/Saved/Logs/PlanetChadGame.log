@@ -1227,3 +1227,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.04-20.03.20:612][ 42]SourceControl: Commited [main 66bf9a8] added cube.
 [2022.05.04-20.03.20:638][ 43]AssetCheck: New page: Asset Save: TopDownExampleMap
 [2022.05.04-20.03.20:639][ 43]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2022.05.04-20.06.15:437][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
